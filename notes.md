@@ -4,3 +4,4 @@
 # Binary features (logo, questions) show correlation with fraud
 # Implemented text preprocessing pipeline
 # Steps: lowercase, HTML removal, URL removal, punctuation removal
+# Added lemmatization using WordNetLemmatizer
