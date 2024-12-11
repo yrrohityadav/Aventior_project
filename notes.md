@@ -5,3 +5,4 @@
 # Implemented text preprocessing pipeline
 # Steps: lowercase, HTML removal, URL removal, punctuation removal
 # Added lemmatization using WordNetLemmatizer
+# Combined 5 text columns into single feature for better classification
