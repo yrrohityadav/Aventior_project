@@ -9,3 +9,4 @@
 # TF-IDF vectorization with 10000 features and bigrams
 # Implemented train-test split with stratification
 # Trained Logistic Regression with balanced class weights
+# Trained Random Forest with 200 estimators
