@@ -11,3 +11,4 @@
 # Trained Logistic Regression with balanced class weights
 # Trained Random Forest with 200 estimators
 # Added confusion matrix evaluation for both models
+# Added ROC-AUC curve comparison
