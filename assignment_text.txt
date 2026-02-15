@@ -1,0 +1,384 @@
+Total pages: 7
+=== Page 1 ===
+Kindly follow the instructions below:
+
+wm
+
+For assignment completion, you may choose any OCR tools, algorithms, or statistical
+methodologies you consider appropriate; there are no restrictions on the technical stack or
+approach.
+
+Evaluation will primarily focus on the clarity, robustness, and depth of your chosen strategy,
+methodology, and overall approach as documented ina detailed report, rather than on final
+results, outcomes, or accuracy metrics alone.
+
+Submit all source code, pipelines, and any modular Python packages in a zipped folder, along
+with a detailed report describing your approach, methodology, and results, on or before the
+due date and time highlighted in the email.
+
+Solve one question out of Questions 1 and 2.
+
+Solve one question out of Questions 3 and 4,
+
+Questions 5 and 6 are compulsory and must be attempted.
+
+1|Page
+
+
+=== Page 2 ===
+Assignment Assessment
+
+1. On Page No. 1 in both documents, Sample-9690.pdf and Sample-9700.pdf, 'Tyrion
+Lannister' and 'Sandor Clegane' approved the Batch Records report. Extract the 'Name',
+‘Designation’, 'Company', and 'Date of Approval’ for both approvers, save them in 2
+separate tables (one for Sample-9690.pdf and another one for Sample-9700.pdf), and also
+save a third table in which the time difference (how long it took to approve the records for
+"Tyrion Lannister' and 'Sandor Clegane') in approval of Sample-9700.pdf after Sample-
+9690.pdf was approved.
+
+Note: You can save in either tabular/dictionary/JSON.
+
+Ref: Snippet
+Gp -ocm cicrecn GR mom cicrece
+Signature Manifestation Signature Manifestation
+Batch Record Approve Signatures batch Record Approval Signatures
+20-Aug-2023 ee, 22972078
+see BIA 2023 he sate, 2B AUI PLS
+ie. 22-Aug- 2025 13-Aug-2028
+
+2|Page
+
+
+=== Page 3 ===
+2. In Sample-9690.pdf, the 'Bill of Material’ is present on Page No. 2, and in Sample-9700.pdf,
+
+the 'Bill of Material’ is present on Page No. 3. Map these 2 pages and give the change in
+
+values for Magnesium Stearate, Sodium Lauryl Sulfate, Stearic Acid, and Titanium Dioxide.
+
+Note: You can save results in a tabular/dictionary/JSON
+
+Re
+
+: Snippet
+
+> -2-- ------
+
+OD oom cctv
+
+PORN BioTech POR BIE
+‘Bocurnen Type Master Batch Recora Tat Naren 0307-00-19 ‘Docent Type Master Batch Record Tat Nuriber 0307-0010
+
+“Tie: 2:05, Day 1, Anaemia Paacodtversy Medicine, Meccietione Bie ety SON. Tie: 2:05, Day 1, Anaemia Palacodtversty Medicine, Mesiteshoteg Both Meine 208 970
+'190301 Drug Preduct Manutacurng Process Document Veron Nanber 23 (20201 Org Product Manutacurng Process ‘Document Version Number 23
+
+1. Bill Of Material
+Sorat | waar
+somone |
+
+a
+
+2 [aon
+
+3 [eoware 2
+«_[owwser rm
+«rece no! 2G
+« [osrena| Seam Cronde 1G
+7 _|z7v601 | cows Morante Ee
++ _[osrino | Povenene Gyo iG
+© [tae | Propane Gea 00"
+10 [menses | yaonypopy Meyicondons im
+11 _[era1Ws| —Groseetone Schum aL
+2 [vous Powdone 1G
+13 _[nocar7 | Sosum tou State iorte
+14 _| Uiz8Vs | Dime Sata (OMSO) anc
+a oo ‘alas 3G
+te | RSArED| _Potpany Aco PVA BIaL
+| Tae Stee hod Jeane
+we | vavext| Tenn Done 5b
+
+xpiy ome | esued By | Received By
+
+Ta
+aL pas anr ah
+EE|
+ocr
+
+aa anw aa
+
+Hewantaga- fell
+= *
+oat at
+
+57a CIE 9
+
+Ss ee
+Tre
+
+ad el
+UIzaYS | Dimethyl Suton OMSO) | ST TL)
+
+Paez Gein spats] 2G fe
+
+ReATED| Paya Acanaevy | S1ST 9.0L fxm 24h
+oa eo ‘See Aa RE KC ee
+ve [vevext| _TaanamDonde | SISS0[ 2 pe oun ad
+
+3|Page
+
+
+=== Page 4 ===
+3. In Sample-9690.pdf, the 'Equipment List’ is present on Page No. 3, and in Sample-9700.pdf,
+the 'Equipment List! is present on Page No. 4. Map these 2 pages and check if the
+Equipment Number is the same or not for Equipment’s - Gas Chromatography-Mass
+Spectrometry (GC-MS), Differential Scanning Calorimeter (DSC), Dissolution Tester. Flags:
+Yes/No
+
+Note: You can save results in a tabular/dictionary/JSON
+
+7 | Mat-Peromance uaa | Thame
+
+Ref: Snippet
+GD oom cicrecn
+=o SES
+aaa ise a a es a eT
+‘Tite 2-05, Day 1. Anaemia Palaeodiversity Medicine, Mancichaing Butch Neatber: 206-2000 Tile: 2-05, Day 1, Anaemia Palaeodiversity Medicine. ee
+Peterlee eee Reese eae eee <a
+Zeneeee ise | Zeenat ie
+i a oe cal] t= paaeer || aaee || iene | Fas
+5 Ty <=
+Stonmpeoneto| row |eic-OF] cated. | Skmcswmrems| row fune-es] Lites. | G7
+eet ees praccesies re prescerired
+Gwomaoprpnyass | Fister |GCMS-AN1| — caleratondve ome: YB
+eae pietarete
+cai = cers
+eee ee &
+
+| Uwawaiet Vette | Theme Fes No NA
+
+7 a Tomo We_WA
+coonaogeoysie | rane |Gcms-A1 | calttn'adm: [LP
+
+‘Spectrometry (GC-MS) | Scientific Bi Dec- 2025"
+
+7] Factor | Thome Ye “hon
+Torwes etm” | Faw caertinbi e
+
+Secon | some &
+
+a] aeesoetvane —| Thre imo mA
+wwe) Fate [swiS-07 | cXiumentna due: | A
+
+‘Spectrophotometer ‘Scientific 7—June~ 2036
+
+(vive) Faner |GVVIS~O7 | caiserton Due Date a
+Spearopnooneter | scentc T=dUNe~2026
+
+. use ers Xoes No NA
+
+Chromatography mass | oN | iccm=09| Cdigeraton Due Date
+
+‘Seaan- 2023 |O—
+
+©] oerens Scaring | vite Ne
+Catone 30) | Corparaton |DSC—OT™ Renna: |e
+
+Tae age You vf Wa
+
+7 | eserance we) | Peso ae oo
+Secret
+
+Viste No NA
+coporaton | SCO) ton Due Date ye
+
+Chromatograry Mass cle
+Sodan 2022
+
+‘Spectrometry (LC-MS) Spectemty (LC-MS)
+
+a = 5s
+
+acre oration | DSC lore 5
+
+ci (osc) | corp Dsc-aT cea ec
+i ee er a
+ain
+
+o i Yes vo NA
+Parice Sze Analyzer | Pertineimer Ccaoeraton Due Date
+
+. Yes vffo NA
+
+Partie Sze Analyzer | Perkineimer Ccatoeraton Due Date oe
+
+NW
+
+5 ea Nowa
+Dasotsten Tester | Perntiner | OT-AOS | cieerason de Ox
+me Fone 202 |
+
+visto ms
+mention tote | rence |OT-OOF| cee Se
+Te Bene 2026 | OO
+
+4|Page
+
+
+=== Page 5 ===
+4. In Sample-9690.pdf, the 'Weighing and Dispensing Form! is present on Page No. 4, and in
+Sample-9700.pdf on Page 8, the 'Equipment List’ is present on Page No. 8. Map these 2
+pages and check if the Ingredients (Active Pharmaceutical Ingredient (API), Excipients) are
+the same or not (Flags: Yes/No). If the same (Flags = Yes), then determine and save the
+CHANGE in Weighing Details (API Weight, Excipient 1 Weight, Excipient 2 Weight)
+
+Note: You can save results in a tabular/dictionary/JSON
+
+Ref: Snippet
+
+Porn Tech
+
+‘Doaanent Type Master Gatch Record
+
+Tet Nanber 05070070
+
+Tie: 2-05, Day 1, Anaemia Palaodiversty Medine.
+‘110301 Drug Produt Mantactring Process
+
+Manufacturing Batch Nanber 205 6650
+‘Document Version Number: 23
+
+3. Weighing and Dispensing Form
+
+1. Weigh Acetarinophen and excess accurately
+ang Meter Toledo XS205,
+
+2. Reco weight ane lot rumbers in the batch record
+
+Ingredients
+
+mipens: AL-01-05, AL-01-07
+
+Active Pharmaceutical ingredient (AP): _PDKIO-00 7
+
+Equipment Used: WM=0S, W9 1-04
+
+‘ieghing Osta
+aPtweignt: 2S 99
+Excpient 1 Weight _3_ 05
+
+Excipient 2 Weight:_S_™9,
+
+P >|
+Ae be
+
+Lot Numbers
+pitt _ST-PD«m-007-0090
+
+xcipent 1 Lot:_W7 M-OB-HT-O7 12
+
+Excbpiant 2 ot WTP
+
+|
+
+p>
+
+PoOKM BictTech
+
+PORN Tech
+
+‘oaiment Type Master Sich Record
+
+Tat arbor 0507-00-79
+
+“Tie: 2.05, Day 1, Anaemia Palasodversty Medicine,
+{N0901 Org Predict Mantactring Process
+
+3. Weighing and Dispensing Form
+
+Manufacturing Batch Nariber 2.05 9700
+‘Document Version Number: 23
+
+1 Weigh Acetaminophen ad excises accurately
+ing Meter Todo XS205
+2. Record weight ado rumbersin the batch record
+
+Recorded By: | Vried By
+
+Ingredens|
+~ Active Pharmaceutical ingredient ay (DMN -OO7
+
+cxcpients: ALO OF AL 01-67
+
+Equpment Uses WM=029 4) 1-03
+
+‘Wieighing Deans
+Pt Weigh:_27. 9,
+xcipent 1 Weight: MR)
+
+xcipent 2 weight:_10 5
+
+Tt
+
+then
+
+Lot Numbers
+Expt 1 Lot:
+Excplnt 2 Lot _
+
+5|Page
+
+
+=== Page 6 ===
+5. In Sample-9690.pdf, the 'Granulation' is present on Page No. 5, and in Sample-9700.pdf, the
+‘Granulation’ is present on Page No. 5. Map these 2 pages and check if the Equipment Used
+is the same or not (Flags: Yes/No). If the same (Flags = Yes), then determine and save the
+CHANGE in Granulation Parameters (Mixing Time, Granulation Time)
+
+Note: You can save results in a tabular/dictionary/JSON
+
+Ref: Snippet
+
+4, Granulation
+
+6|Page
+
+
+=== Page 7 ===
+6. In Sample-9690.pdf, the 'Milling' is present on Page No. 6, and in Sample-9700.pdf, the
+"Milling' is present on Page No. 7. Map these 2 pages and save the handwritten text found in
+Sample-9700.pdf underneath the table.
+
+Note: You can save results in a tabular/dictionary/JSON
+
+Ref: Snippet
+
+6. Milling
+
+6. Millin
+
+|
+|
+
+ros _ML-8 9S
+
+[recresor Verses By. |
+|
+|
+1
+
+| at. |
+
+eo mins ©
+
+o:Amk
+
+ADDS
+9 ® Inet?
+
+desire cl particle size
+
+Ting time a8 higher Binder alime caused delay fo
+
+7|Page
+
+
