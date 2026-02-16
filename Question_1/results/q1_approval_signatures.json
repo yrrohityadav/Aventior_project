@@ -1,0 +1,47 @@
+{
+  "question": "Question 1 - Batch Record Approval Signatures",
+  "table_1_sample_9690": [
+    {
+      "Name": "Tyrion Lannister",
+      "Designation": "Manager, Drug Manufacturing and Operations",
+      "Company": "MKPD Bio Tech",
+      "Date of Approval": "21-Aug-2023"
+    },
+    {
+      "Name": "Sandor Clegane",
+      "Designation": "Lead Specialist - Quality Assurance",
+      "Company": "MKPD Bio Tech",
+      "Date of Approval": "22-Aug-2023"
+    }
+  ],
+  "table_2_sample_9700": [
+    {
+      "Name": "Tyrion Lannister",
+      "Designation": "Manager, Drug Manufacturing and Operations",
+      "Company": "MKPD Bio Tech",
+      "Date of Approval": "23-Aug-2028"
+    },
+    {
+      "Name": "Sandor Clegane",
+      "Designation": "Lead Specialist - Quality Assurance",
+      "Company": "MKPD Bio Tech",
+      "Date of Approval": "28-Aug-2028"
+    }
+  ],
+  "table_3_time_difference": [
+    {
+      "Name": "Tyrion Lannister",
+      "Approval Date (Sample-9690)": "21-Aug-2023",
+      "Approval Date (Sample-9700)": "23-Aug-2028",
+      "Time Difference (Days)": 1829,
+      "Time Difference (Human Readable)": "5 years, 4 days"
+    },
+    {
+      "Name": "Sandor Clegane",
+      "Approval Date (Sample-9690)": "22-Aug-2023",
+      "Approval Date (Sample-9700)": "28-Aug-2028",
+      "Time Difference (Days)": 1833,
+      "Time Difference (Human Readable)": "5 years, 8 days"
+    }
+  ]
+}
