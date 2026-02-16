@@ -1,0 +1,27 @@
+{
+  "question": "Question 3 - Equipment List Comparison",
+  "source_pages": {
+    "Sample-9690": "Page 3",
+    "Sample-9700": "Page 4"
+  },
+  "equipment_comparison": [
+    {
+      "Equipment Name": "Gas Chromatography-Mass Spectrometry (GC-MS)",
+      "Equipment No. (Sample-9690)": "GCMS-A71",
+      "Equipment No. (Sample-9700)": "GCMS-A71",
+      "Same? (Flag)": "Yes"
+    },
+    {
+      "Equipment Name": "Differential Scanning Calorimeter (DSC)",
+      "Equipment No. (Sample-9690)": "DSC-05",
+      "Equipment No. (Sample-9700)": "DSC-05",
+      "Same? (Flag)": "Yes"
+    },
+    {
+      "Equipment Name": "Dissolution Tester",
+      "Equipment No. (Sample-9690)": "DT-009",
+      "Equipment No. (Sample-9700)": "DT-009",
+      "Same? (Flag)": "Yes"
+    }
+  ]
+}
