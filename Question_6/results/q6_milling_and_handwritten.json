@@ -1,0 +1,25 @@
+{
+  "question": "Question 6 - Milling Comparison & Handwritten Text",
+  "source_pages": {
+    "Sample-9690": "Page 6",
+    "Sample-9700": "Page 7"
+  },
+  "milling_data": {
+    "Sample-9690": {
+      "Equipment Used": "ML-095",
+      "Milling Time": "15 min",
+      "Particle Size Achieved": "0.4 mm"
+    },
+    "Sample-9700": {
+      "Equipment Used": "ML-035",
+      "Milling Time": "20 min",
+      "Particle Size Achieved": "0.4 mm"
+    }
+  },
+  "handwritten_text": {
+    "source": "Sample-9700.pdf, Page 7",
+    "location": "Below the Milling table",
+    "text": "Extra milling time as higher binder volume caused delay to achieve desired particle size",
+    "interpretation": "The operator noted that extra milling time was needed because the higher binder solution volume used during granulation caused a delay in achieving the target particle size."
+  }
+}
