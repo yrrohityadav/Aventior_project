@@ -1,0 +1,25 @@
+{
+  "question": "Question 5 - Granulation Comparison",
+  "source_pages": {
+    "Sample-9690": "Page 5",
+    "Sample-9700": "Page 5"
+  },
+  "equipment_comparison": {
+    "equipment_9690": "GK-004",
+    "equipment_9700": "GK-003",
+    "is_same": false,
+    "flag": "No"
+  },
+  "parameter_changes": {
+    "mixing_time": {
+      "sample_9690_sec": 50,
+      "sample_9700_sec": 65,
+      "change_sec": 15
+    },
+    "granulation_time": {
+      "sample_9690_sec": 300,
+      "sample_9700_sec": 400,
+      "change_sec": 100
+    }
+  }
+}
